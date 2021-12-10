@@ -5,7 +5,7 @@ import { Button, Modal } from 'antd';
 const MyCheckbox = (props) => {
   return (
     <div>
-      <Button>记录</Button>0000====
+      <Button>记录</Button>0000====-----
       <Modal />
     </div>
   );
